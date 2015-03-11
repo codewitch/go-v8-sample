@@ -28,6 +28,7 @@ func main() {
 		`obj = {"foo": [1, 2], "bar": {"baz": true, "hoge": "fuga"}}`,
 	}
 
+	// comment this out to make it not fail
 	go func() {
 		for {
 			fmt.Println("dummy script")
