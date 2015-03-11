@@ -5,5 +5,5 @@ This sample integrates v8 with go utilizing a wrapper. V8 runs fine on its own b
 ####Setup
  - move the v8runner folder into your GOROOT folder
  - add a copy of libv8wrapper.dylib to /usr/lib/ 
- - ```go run sample.go``
+ - ```go run sample.go```
 
